@@ -14,6 +14,7 @@ A responsive personal link page built as a digital visit card. It brings togethe
 - Accessible semantic HTML
 - Lightweight static build with no runtime dependencies
 - Ready for deployment on Vercel
+- Privacy-friendly visitor analytics through Vercel Web Analytics
 
 ## Built with
 
@@ -49,4 +50,3 @@ npx serve dist
 - [Instagram](https://www.instagram.com/kablanbayzangar)
 - [TikTok](https://www.tiktok.com/@zanggar4ik)
 - [Strava](https://strava.app.link/6UBhlQyw05b)
-
